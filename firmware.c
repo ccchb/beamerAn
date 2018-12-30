@@ -1,7 +1,6 @@
 #define F_CPU 16e6
 
 #include <avr/io.h>
-#include <util/delay.h>
 
 // Port B
 #define LED 0b00100000
